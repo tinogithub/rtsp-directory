@@ -260,3 +260,12 @@ ZAVIO:
 ```
 rtsp://USUARIO:SENHA@DOMINIO:PORTA/video.pro1
 ```
+
+HOLOWITS:
+```
+Main stream: rtsp://[USERNAME]:[PASSWORD]@[IP-ADDRESS]:8554/live0.265
+Sub stream: rtsp://[USERNAME]:[PASSWORD]@[IP-ADDRESS]:8554/live1.265
+```
+
+Confirmed working on:
+- Model E3030
